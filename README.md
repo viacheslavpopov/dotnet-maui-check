@@ -97,4 +97,3 @@ Arguments:
 Example:
 
 `maui-check config --dev --nuget-sources --dotnet-version --dotnet-pre true`
-
